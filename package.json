@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/innFactory/react-mui-cookie-dialog"
+    "url": "https://github.com/mediporta/react-mui-cookie-dialog"
   },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -46,7 +46,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-mui-cookie-dialog",
+  "name": "@mediporta/react-mui-cookie-dialog",
   "author": "Nicolas Schlecker (nicolasschlecker@gmail.com)",
   "module": "dist/react-mui-cookie-dialog.esm.js",
   "size-limit": [
